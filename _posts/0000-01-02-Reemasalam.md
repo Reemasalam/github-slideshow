@@ -1,5 +1,5 @@
 ---
 layout: slide
-title: "welcome to my slide"
+title: "welcome"
 ---
 My self ReemaShareen
